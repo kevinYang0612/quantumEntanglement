@@ -1,4 +1,5 @@
 # Multiple Window 3D Scene using Three.js
+# Personal Study based on [@_nonfigurativ_](https://twitter.com/_nonfigurativ_)
 
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
@@ -12,7 +13,7 @@ This project demonstrates a unique approach to creating and managing a 3D scene 
 Clone the repository and open `index.html` in your browser to start exploring the 3D scene.
 
 ```
-git clone https://github.com/bgstaal/multipleWindow3dScene
+git clone https://github.com/kevinYang0612/quantumEntanglement.git
 ```
 ## Usage
 The main application logic is contained within `main.js` and `WindowManager.js`. The 3D scene is rendered in `index.html`, which serves as the entry point of the application.
